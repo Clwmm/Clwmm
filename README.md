@@ -4,7 +4,6 @@
 
 - 🔭 I'm currently working on: [Lemonade Stand Game][game]!
 - 🌱 I’m currently learning coding and [graphics 3D][artstation]
-- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
