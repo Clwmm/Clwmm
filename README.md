@@ -2,7 +2,7 @@
 
 ## I'm a self-learning Student!!
 
-- 🔭 I'm currently working on: [Lemonade Stand Game][game]!
+- 🔭 I'm currently working on: [Sky Islands Game][game]!
 - 🌱 I’m currently learning coding and [graphics 3D][artstation]
 
 ### Connect with me:
