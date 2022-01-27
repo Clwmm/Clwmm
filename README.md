@@ -4,6 +4,7 @@
 
 - 🔭 I'm currently working on: [Sky Islands Game][game]!
 - 🌱 I’m currently learning coding and [graphics 3D][artstation]
+- 💻 All my games: [Itch.io][games]!
 
 ### Connect with me:
 
@@ -22,6 +23,7 @@
 <br />
 
 [game]: https://github.com/Clwmm/SkyIslandsGame
+[games]: https://clwm.itch.io/
 [artstation]: https://www.artstation.com/kalwamateusz
 [instagram]: https://www.instagram.com/kalw__m/
 [visualstudio]: https://visualstudio.microsoft.com/
