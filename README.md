@@ -21,7 +21,7 @@
 <br />
 <br />
 
-[game]: https://clwm.itch.io/
+[game]: https://github.com/Clwmm/SkyIslandsGame
 [artstation]: https://www.artstation.com/kalwamateusz
 [instagram]: https://www.instagram.com/kalw__m/
 [visualstudio]: https://visualstudio.microsoft.com/
