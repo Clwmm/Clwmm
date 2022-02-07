@@ -5,6 +5,7 @@
 - 🔭 I'm currently working on: [Sky Islands Game][game]!
 - 🌱 I’m currently learning coding and [graphics 3D][artstation]
 - 💻 All my games: [Itch.io][games], [GitHub][games2]!
+- I am looking for a graphic designer! (pixel art 2D)
 
 ### Connect with me:
 
