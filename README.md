@@ -21,4 +21,5 @@
 |  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clwmm&show_icons=true&theme=radical)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clwmm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  |
 | ------------- | ------------- |
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Clwmm&repo=SkyIslands)](https://github.com/Clwmm/SkyIslands)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clwmm)](https://github.com/anuraghazra/github-readme-stats)
