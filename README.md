@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Pixel Art](https://github.com/Clwmm/SkyIslandsGame)
 
-- 📫 How to reach me **https://www.linkedin.com/in/mateuszkalwa/**
+- 📫 Connect with me: **https://www.linkedin.com/in/mateuszkalwa/**
 
 | First Header  | Languages and Tools |
 | ------------- | ------------- |
