@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">Student of computer science writing in C++</h3>
+<h3 align="center">Student of computer science writing in C++, C</h3>
 
 - 🔭 I’m currently working on [Sky Islands Game](https://github.com/Clwmm/SkyIslandsGame)
 
